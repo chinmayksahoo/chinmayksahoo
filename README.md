@@ -1,4 +1,4 @@
-## 👋 Hi there, this is Chinmaya!
+## 👋 Hi there, this is Chinmay!
 
 <br/>
 
