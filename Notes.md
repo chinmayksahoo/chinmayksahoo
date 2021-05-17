@@ -13,7 +13,7 @@
 </a>
 <a href="https://linkedin.com/in/chinmayksahoo" target="blank"><img align="left" alt="Chinmay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/_._chinmay._" target="blank"><img align="left" alt="chinmayksahoo | Instagram" width="22px" src="https://raw.githubusercontent.com/chinmayksahoo/chinmayksahoo/master/assets/Instagram.svg" />
+<a href="https://instagram.com/_._chinmay._" target="blank"><img align="left" alt="chinmayksahoo | Instagram" width="22px" src="https://github.com/chinmayksahoo/chinmayksahoo/tree/master/Assets/Instagram.svg" />
 </a>
 </p>
 
