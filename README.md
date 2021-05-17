@@ -65,11 +65,11 @@
 <br/>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo" alt="chinmayksahoo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></a> </p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayksahoo&" alt="chinmayksahoo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></p>
 
 [linkedin]: https://linkedin.com/in/chinmayksahoo
 
