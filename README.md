@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/chinmayksahoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayksahoo&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayksahoo&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=4&layout=compact" />
 </a>
 <a href="https://github.com/chinmayksahoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayksahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
@@ -64,6 +64,12 @@
 <br/>
 <br/>
 <br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo" alt="chinmayksahoo" /></a> </p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayksahoo&" alt="chinmayksahoo" /></p>
 
 [linkedin]: https://linkedin.com/in/chinmayksahoo
 
