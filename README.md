@@ -1,8 +1,22 @@
-## 👋 Hi there, this is Chinmay!
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Chinmay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
+<a href="https://twitter.com/chinmaya_ks">
+  <img align="left" alt="Chinmay Sahoo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/chinmayksahoo">
+  <img align="left" alt="Chinmay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/110o26z7zw83i6mg6sxgtagxl">
+  <img align="left" alt="Chinmay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=chinmayksahoo.chinmayksahoo)
 
 <br/>
 
-- I am a full stack software developer 👨🏻‍💻 
+- I'm Chinmay Sahoo, a Software Engineer who is passionate about making open-source more accessible, creating technology to elevate people and building community. 
 - Looking to collaborate 👯 with other developers and contribute towards open source projects
 - [Ask me][askme] 💬 anything about enterprise application development
 
