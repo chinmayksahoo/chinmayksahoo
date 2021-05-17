@@ -68,11 +68,11 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></a> </p>
+<p align="left"> <a href="https://github.com/chinmayksahoo"><img align="center" src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></a> </p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></p>
+<p><a href="https://github.com/chinmayksahoo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></a></p>
 
 [linkedin]: https://linkedin.com/in/chinmayksahoo
 
@@ -81,6 +81,8 @@
 [instagram]: https://instagram.com/_._chinmay._
 
 [askme]: https://github.com/chinmayksahoo/chinmayksahoo/issues
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=chinmayksahoo&theme=onedark" alt="chinmayksahoo" /></a> </p> -->
 
 <!-- [githubstats]: https://github-readme-stats.vercel.app/api?username=chinmayksahoo&show_icons=true
 
