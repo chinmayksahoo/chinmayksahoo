@@ -26,11 +26,11 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/chinmayksahoo/chinmayksahoo">
+<a href="https://github.com/chinmayksahoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayksahoo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/chinmayksahoo/chinmayksahoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayksahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/chinmayksahoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayksahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
 </a>
 <br>
 <br>
