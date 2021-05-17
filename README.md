@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/chinmayksahoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayksahoo&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=4&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayksahoo&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/chinmayksahoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayksahoo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Chinmay's GitHub Stats" />
