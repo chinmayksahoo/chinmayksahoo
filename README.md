@@ -17,10 +17,14 @@
 ![](https://img.shields.io/badge/Code-Julia-informational?style=plastic&logo=Julia&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=TypeScript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/MarkupLang-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=CSS3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=plastic&logo=red-hat-open-shift&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Database-DB2-informational?style=plastic&logo=IBM&logoColor=white&color=blueviolet)
+<!-- ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=plastic&logo=red-hat-open-shift&logoColor=white&color=blueviolet) -->
 <!-- ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=Amazon&logoColor=white&color=blueviolet) -->
 <!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=plastic&logo=vue.js&logoColor=white&color=blueviolet) -->
 
