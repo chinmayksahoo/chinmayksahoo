@@ -16,7 +16,7 @@
 
 <br/>
 
-- I'm Chinmay Sahoo, a Software Engineer who is passionate about making open-source more accessible, creating technology to elevate people and building community. 
+- I'm Chinmay Kumar Sahoo, a Software Engineer who is passionate about making open-source more accessible, creating technology to elevate people and building community. 
 - Looking to collaborate 👯 with other developers and contribute towards open source projects
 - [Ask me][askme] 💬 anything about enterprise application development
 
